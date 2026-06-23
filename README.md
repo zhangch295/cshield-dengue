@@ -1,6 +1,6 @@
 # 🛡️ cshield-dengue
 
-**长沙市登革热风险防控平台**  
+**长沙市两热防控智能化地图**  
 *Changsha Shield against Dengue – Risk Prevention & Control Platform*
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
